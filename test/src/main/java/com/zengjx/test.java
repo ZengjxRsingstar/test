@@ -13,5 +13,6 @@ public class test {
         System.out.println("AAAAAAAAAAAAAAAAAAAA");
         System.out.println("比较。。。。。");
         System.out.println("第三次修改........");
+        System.out.println("clone  下来的添加的   添加的");
     }
 }
